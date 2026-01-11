@@ -195,4 +195,4 @@ Si estás interesado en dar una charla o proponer un tema, contacta con nosotros
 ## Enlaces útiles
 
 - [Facultat de Matemàtiques i Informàtica - UB](https://mat.ub.edu/)
-- [Repositorio GitHub del seminario](https://github.com/tu-usuario/seminario-de-estudiantes-matematicas-ub)
+- [Repositorio GitHub del seminario](https://github.com/carlosferlo/seminario-de-estudiantes-matematicas-ub)
